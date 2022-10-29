@@ -1,5 +1,5 @@
 # 👋 Greetings, I’m Pedro Fonseca <img src="https://i.ibb.co/HBF2rM6/eu-Redondo-Sem-Fundo.png" width="114" height="114" title="Me" />
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroGNF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroGNF&show_icons=true&theme=tokyonight)
 ### 🎯 I’m interested in Front-end development
 ### 💻 I’m currently learning Flutter and Next JS
 ### 💞️ I’m looking to collaborate on any project
