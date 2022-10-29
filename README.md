@@ -1,9 +1,13 @@
 # 👋 Greetings, I’m Pedro Fonseca <img src="https://i.ibb.co/HBF2rM6/eu-Redondo-Sem-Fundo.png" width="114" height="114" title="Me" />
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pedroGNF)
-### 👀 I’m interested in Front-end development
-### 🌱 I’m currently learning Flutter and Next JS
+### 🎯 I’m interested in Front-end development
+### 💻 I’m currently learning Flutter and Next JS
 ### 💞️ I’m looking to collaborate on any project
-### 📫 How to reach me at [<img src="https://img.shields.io/badge/gmail-beige.svg?&style=for-the-badge&logo=gmail&logoColor=red" />](https://www.linkedin.com/in/pedro-fonseca/)
+### 📧 How to reach me at pedrognfwork@gmail.com [<img src="https://img.shields.io/badge/gmail-beige.svg?&style=for-the-badge&logo=gmail&logoColor=red" width="80" height="30" />](https://www.gmail.com)
+
+[<img src="https://img.shields.io/badge/stackoverflow-gray.svg?&style=for-the-badge&logo=stackoverflow&logoColor=O]orange" />](https://pt.stackoverflow.com/users/308664/pedro-fonseca)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedro-fonseca/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/p.e.d.r.o.___/)
 
 ## Tools and Technologies
 <div>
@@ -26,6 +30,30 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40" title="GitHub" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" title="Google" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" title="Godoot" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" title="Klotin" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" title="Markdown" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="40" height="40" title="MS-DOS" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next JS" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node JS" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" title="PyCharm" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" title="Raspberry Pi" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="40" height="40" title="Safari" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" title="Slack" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="Sqlite" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" title="Trello" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" title="Unity" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//xd/xd-plain.svg" width="40" height="40" title="XD" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" title="Yarn" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" title="Blender" />
 </div>
 
 ## Open source projects
@@ -63,11 +91,3 @@
     </tr>
   </tbody>
 </table>
-
-[<img src="https://img.shields.io/badge/stackoverflow-gray.svg?&style=for-the-badge&logo=stackoverflow&logoColor=O]orange" />](https://pt.stackoverflow.com/users/308664/pedro-fonseca)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedro-fonseca/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/p.e.d.r.o.___/)
-[<img src = "https://img.shields.io/badge/GETA-cyan.svg?&style=for-the-badge&logo=geta&logoColor=white">](https://geta.omnicesupa.com/)
-
-<link rel="icon" type="imagem/png" href="/imagens/meufavicon.png" />
-
