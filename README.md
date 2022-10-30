@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroGNF&show_icons=true&theme=tokyonight)
 ### 🎯 I’m interested in Front-end development
 ### 💻 I’m currently learning Flutter and Next JS
-### 💞️ I’m looking to collaborate on any project
+### 💞️ I’m looking to collaborate on any Web or Mobile project
 ### 📧 How to reach me at pedrognfwork@gmail.com [<img src="https://img.shields.io/badge/gmail-beige.svg?&style=for-the-badge&logo=gmail&logoColor=red" width="80" height="30" />](https://www.gmail.com)
 
 [<img src="https://img.shields.io/badge/stackoverflow-gray.svg?&style=for-the-badge&logo=stackoverflow&logoColor=O]orange" />](https://pt.stackoverflow.com/users/308664/pedro-fonseca)
