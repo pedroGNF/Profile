@@ -1,8 +1,13 @@
 # 👋 Greetings, I’m Pedro Fonseca <img src="https://i.ibb.co/HBF2rM6/eu-Redondo-Sem-Fundo.png" width="114" height="114" title="Me" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroGNF&show_icons=true&theme=tokyonight)
+
 ### 🎯 I’m interested in Front-end development
+
 ### 💻 I’m currently learning Flutter and Next JS
+
 ### 💞️ I’m looking to collaborate on any Web or Mobile project
+
 ### 📧 How to reach me at pedrognfwork@gmail.com [<img src="https://img.shields.io/badge/gmail-beige.svg?&style=for-the-badge&logo=gmail&logoColor=red" width="80" height="30" />](https://www.gmail.com)
 
 [<img src="https://img.shields.io/badge/stackoverflow-gray.svg?&style=for-the-badge&logo=stackoverflow&logoColor=O]orange" />](https://pt.stackoverflow.com/users/308664/pedro-fonseca)
@@ -10,6 +15,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/p.e.d.r.o.___/)
 
 ## Tools and Technologies
+
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" title="Android" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" title="Android Studio">
@@ -57,6 +63,7 @@
 </div>
 
 ## Open source projects
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -75,7 +82,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+   <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
